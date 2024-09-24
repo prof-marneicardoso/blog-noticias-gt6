@@ -29,14 +29,15 @@ body {
     color: var(--cor-05);
 }
 
+/* ===== Barra de navegação ===== */
 header {
     background-color: var(--cor-05);
     color: var(--cor-01);
 
     position: fixed;
     width: 100%;
+    top: 0;
     /* z-index: 100; */
-    /* top: 0; */
     padding: 1.2rem 5rem;
     display: flex;
     flex-direction: row;
@@ -72,12 +73,14 @@ nav a:hover {
     font-weight: 700;
 }
 
+/* ===== Notícias ===== */
+main {
+    margin: 5rem auto;
+}
 
 
 
-
-
-
+/* ===== Rodape ===== */
 footer {
     background-color: var(--cor-05);
     color: var(--cor-02);
