@@ -53,6 +53,10 @@ header span {
     display: none;
 }
 
+.menu-responsivo i {
+    font-size: 3rem;
+}
+
 nav ul {
     display: flex;
     flex-direction: row;
