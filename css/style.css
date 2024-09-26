@@ -185,9 +185,9 @@ footer {
 
 
     /* TESTE */
-    header {
+    /* header {
         background-color: #ff4df9;
-    }
+    } */
 }
 
 /* SM Small - celular paisagem (landscape) */
@@ -227,9 +227,9 @@ footer {
 
 
     /* TESTE */
-    header {
+    /* header {
         background-color: #2139a7;
-    }
+    } */
 }
 
 /* Tablet */
@@ -244,9 +244,9 @@ footer {
 
 
     /* TESTE */
-    header {
+    /* header {
         background-color: #b805b2;
-    }
+    } */
 }
 
 /* Notebook */
@@ -287,16 +287,16 @@ footer {
 
 
     /* TESTE */
-    header {
+    /* header {
         background-color: #05b856;
-    }
+    } */
 }
 
 /* Desktop */
 @media (min-width: 1200px) {
 
     /* TESTE */
-    header {
+    /* header {
         background-color: #46554d;
-    }
+    } */
 }
